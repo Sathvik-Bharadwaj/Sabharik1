@@ -1,0 +1,107 @@
+#Title{
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/background.jpg);
+  background-size: cover;
+  height: 500px;
+  width: 1400px;
+  text-align: center;
+  margin-bottom:50px;
+}
+
+.Heading{
+  font-size: 3.5rem;
+  color: white;
+  padding-top: 150px;
+  font-weight: 900;
+  font-family: 'Comic Neue', cursive;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+  color: #fcf8f3;
+  font-weight: 900;
+  font-family: 'Kaushan Script', cursive;
+
+}
+.navbar-brand:hover{
+  color: #dbdbdb;
+}
+
+.nav-item{
+  font-size: 1.1rem;
+  color: #fcf8f3;
+  font-weight: bold;
+  font-family:'Comic Neue', cursive;
+  padding: auto 20px;
+}
+
+.nav-link{
+  color: #fcf8f3;
+}
+.nav-link:hover{
+  color: #dbdbdb;
+}
+#Features{
+  padding: 150px 170px;
+}
+
+.card{
+  padding:20px;
+}
+
+#Features{
+  margin: 40px auto;
+text-align: center;
+}
+ p{
+   font-family:'Comic Neue', cursive;
+   font-size: 1.5rem;
+   color: grey;
+   margin-bottom: 60px;
+ }
+
+ h2{
+   width: 50%;
+   text-align: center;
+   margin: auto;
+   font-family: 'Lobster', cursive;
+ }
+
+.image{
+  border-radius: 100%;
+  padding-top: 10px;
+  position: relative;
+bottom:140px;
+left:190px;
+  width: 140px;
+  height: 140px;
+
+}
+
+h3{
+  font-family: 'Comic Neue', cursive;
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  padding-top:150px;
+  padding-bottom: 70px;
+}
+. container{
+  text-align: center;
+  margin: 5px;
+  position: relative;
+
+}
+
+.carousel-item{
+  background-color: #d2c6b2;
+}
+
+#copyright{
+  height: 200px;
+  margin-top: 40px;
+  padding:73px;
+  background-color: #c7f0db;
+  text-align: center;
+}
+ #Footer{
+   margin:0;
+ }
